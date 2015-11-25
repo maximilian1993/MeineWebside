@@ -1,0 +1,62 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://homepages.thm.de/~hg7118/Logo_THM_MNI_50.jpg');
+  height: 120px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+
+  position: relative;
+  top:140px;
+}
+
+.jumbotron h1 {
+  color: blue;
+  font-size: 68px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: grey;
+}
+
+
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.col-md-4 h3{
+  position: relative;
+  top:210px;
+}
+.col-md-4 p{
+  position: relative;
+  top:210px;
+}
+.daten *{
+  font-family: 'Shift',sans-serif;
+  font-size:20px;
+}
