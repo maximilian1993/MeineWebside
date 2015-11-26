@@ -1,6 +1,6 @@
 .nav a {
   color: #5a5a5a;
-  font-size: 14px;
+  font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -11,32 +11,34 @@
 }
 
 .jumbotron {
-  background-image:url('https://homepages.thm.de/~hg7118/Logo_THM_MNI_50.jpg');
-  height: 120px;
+  background-image:url('http://kievbusinessconsulting.com.ua/wp-content/uploads/2014/12/0071.jpg');
+  height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .jumbotron .container {
-
   position: relative;
-  top:140px;
+  top:100px;
 }
 
 .jumbotron h1 {
-  color: blue;
-  font-size: 68px;
+  color: #fff;
+  font-size: 48px;
   font-family: 'Shift', sans-serif;
   font-weight: bold;
-  text-align: center;
 }
 
 .jumbotron p {
   font-size: 20px;
-  color: grey;
+  color: #fff;
 }
 
-
+.learn-more {
+  float:left;
+  padding:0px;
+  background-color: #f7f7f7;
+}
 
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
@@ -44,19 +46,3 @@
   font-weight: bold;
 }
 
-.learn-more a {
-  color: #00b0ff;
-}
-
-.col-md-4 h3{
-  position: relative;
-  top:210px;
-}
-.col-md-4 p{
-  position: relative;
-  top:210px;
-}
-.daten *{
-  font-family: 'Shift',sans-serif;
-  font-size:20px;
-}
