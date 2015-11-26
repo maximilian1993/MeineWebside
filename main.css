@@ -35,14 +35,19 @@
 }
 
 .learn-more {
-  float:left;
+  float:center;
   padding:0px;
   background-color: #f7f7f7;
 }
-
+.row{
+  float:left;
+}
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
 }
+.bild *{
+  height:200;
 
+}
